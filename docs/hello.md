@@ -11,12 +11,10 @@ This is my **first Dinosaurus document**!
 
 
 
-## Heading 1
+## A better headding
 
 adsf
 
 ## Heading 2
-
-
 
 afgfsd
